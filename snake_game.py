@@ -54,6 +54,7 @@ class Snake:
                 tag="snake"
             )
             self.squares.append(square)
+            #editing the code
 
 
 # =====================

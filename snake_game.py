@@ -262,4 +262,4 @@ snake = Snake()
 food = Food()
 
 next_turn(snake, food)
-window.mainloop() #code end
+window.mainloop() #code end here
